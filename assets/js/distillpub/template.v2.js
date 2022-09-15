@@ -4420,7 +4420,7 @@ d-footnote-list a.footnote-backlink {
 
 .panel {
   position: absolute;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.5em;
   top: 0;
   left: 0;
