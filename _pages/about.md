@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hello, this is Junliang Yu (余俊良), a final-year Ph.D. student of Computer Science at The University of Queensland.
+subtitle: Hello, this is Junliang Yu (余俊良), a final-year Ph.D. student of Data Science at The University of Queensland.
 
 profile:
   align: right
