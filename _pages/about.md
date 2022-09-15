@@ -25,7 +25,7 @@ Research Interests
 + anomaly detection
 
 Academic Services
-+ PC Member: IJCAI '21,22, CIKM' 21,22, AAAI' 21,22
++ PC Member: IJCAI' 21,22, CIKM' 21,22, AAAI' 21,22
 + Journal Reviewer: TKDE, TOIS, TNNLS, etc.
 
 <br>
