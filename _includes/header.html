@@ -31,6 +31,10 @@
           </button>
 
           <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <!-- uq logo -->
+              <a  href="https://www.uq.edu.au/">
+                  <img><img src="./assets/img/uq.png" alt="uq" width="150"></img>
+                </a>
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               {%- for page in site.pages -%}
@@ -38,14 +42,6 @@
                   {% assign about_title = page.title %}
                 {% endif %}
               {% endfor %}
-
-              <!-- uq logo -->
-              <li>
-                <a  href="https://www.uq.edu.au/">
-                  <img><img src="./assets/img/uq.png" alt="uq" width="150"></img>
-                </a>
-              </li>
-
               <!-- About -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
