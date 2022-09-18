@@ -22,7 +22,6 @@ Research Interests
 + graph learning
 + self-supervised learning
 + pre-training
-+ anomaly detection
 
 Academic Services
 + PC Member: IJCAI' 21,22, CIKM' 21,22, AAAI' 21,22
