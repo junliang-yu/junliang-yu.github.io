@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Email: <a href="mailto:jl.yu@uq.edu.au">jl dot yu at uq.edu.au</a> 
 
-Hello, this is Junliang Yu (余俊良). I am a final-year PhD student in [Data Science](https://itee.uq.edu.au/data-science) at [The University of Queensland](https://www.uq.edu.au/), who is jointly supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and [Prof. Zi (Helen) Huang](https://staff.itee.uq.edu.au/huang/). Prior to starting my PhD in 2019, I completed my Bachelor and Master degrees at Chongqing University. 
+Hello, this is Junliang Yu (余俊良). I am a postdoctoral research fellow in [Data Science](https://itee.uq.edu.au/data-science) at [The University of Queensland](https://www.uq.edu.au/), who is jointly supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and [Prof. Zi (Helen) Huang](https://staff.itee.uq.edu.au/huang/). Prior to working as a postdoc this year, I completed my Phd degree at The University of Queensland and Bachelor and Master degrees at Chongqing University. 
 
 Research Interests
 + Recommender systems
