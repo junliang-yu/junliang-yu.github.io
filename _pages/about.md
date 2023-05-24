@@ -17,13 +17,15 @@ Email: <a href="mailto:jl.yu@uq.edu.au">jl dot yu at uq.edu.au</a>
 
 Hello, this is Junliang Yu (余俊良). I am currently a postdoctoral research fellow in [Data Science](https://itee.uq.edu.au/data-science) at [The University of Queensland](https://www.uq.edu.au/), who works with [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and [Prof. Shazia Sadiq](https://scholar.google.com/citations?user=1Jo0EmIAAAAJ&hl=en). Prior to starting my postdoc in 2023, I completed my PhD degree at The University of Queensland and Bachelor and Master degrees at Chongqing University. 
 
-Research Interests
+<u>Research Interests</u>
 + Recommender systems
-+ Graph learning
++ Data-Centric AI
 + Self-supervised learning / Pre-training
 + Tiny machine learning
 
-Academic Services
+Any collaboration for reproducible research in these areas is more than welcome.
+
+<u>Academic Services</u>
 + PC Member: IJCAI' 21,22,23, CIKM' 21,22, AAAI' 21,22
 + Journal Reviewer: TKDE, TOIS, TNNLS, etc.
 
