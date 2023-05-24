@@ -19,7 +19,7 @@ Hello, this is Junliang Yu (余俊良). I am currently a postdoctoral research f
 
 <u>Research Interests</u>
 + Recommender systems
-+ Data-Centric AI
++ Data-centric AI
 + Self-supervised learning / Pre-training
 + Tiny machine learning
 
