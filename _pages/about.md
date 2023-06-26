@@ -26,7 +26,7 @@ Hello, this is Junliang Yu (余俊良 in Chinese). I am currently a postdoctoral
 Any collaboration for reproducible research in these areas is more than welcome.
 
 <b>Academic Services</b>
-+ PC Member: IJCAI' 21,22,23, CIKM' 21,22, AAAI' 21,22
++ PC Member: IJCAI' 21,22,23, CIKM' 21,22,23 AAAI' 21,22
 + Journal Reviewer: TKDE, TOIS, TNNLS, etc.
 
 <br>
