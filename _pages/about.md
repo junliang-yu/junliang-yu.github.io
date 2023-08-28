@@ -15,15 +15,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 Email: <a href="">jl dot yu at uq.edu.au</a> 
 
-Hello, this is Junliang Yu (余俊良 in Chinese). I am currently a postdoctoral research fellow in [Data Science](https://itee.uq.edu.au/data-science) at [The University of Queensland](https://www.uq.edu.au/), who works with [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and [Prof. Shazia Sadiq](https://scholar.google.com/citations?user=1Jo0EmIAAAAJ&hl=en). Prior to starting my postdoc in 2023, I completed my PhD degree at The University of Queensland and Bachelor and Master degrees at Chongqing University. 
+Hello, this is Junliang Yu (余俊良 in Chinese). I am currently a postdoctoral research fellow in [Data Science](https://itee.uq.edu.au/data-science) at [The University of Queensland](https://www.uq.edu.au/), who works with [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and [Prof. Shazia Sadiq](https://scholar.google.com/citations?user=1Jo0EmIAAAAJ&hl=en). Prior to starting my postdoc in 2023, I completed my PhD degree at The University of Queensland and Bachelor and Master degrees at Chongqing University. I am dedicated to conduct reproducible research in the following fields:
 
 <b>Research Interests</b>
 + Recommender systems
 + Data-centric AI
 + Self-supervised learning / Pre-training
 + Tiny machine learning
-
-Any collaboration for reproducible research in these areas is more than welcome.
 
 <b>Academic Services</b>
 + PC Member: IJCAI'21,22,23, CIKM'21,22,23, AAAI'21,22, WWW'24
