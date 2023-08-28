@@ -125,7 +125,10 @@
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
           <div class="periodical">
             {{ periodical | strip }}
-            <br><b>{{ entrynote }}</b>
+          {%- if entry.note -%}
+             <br><b>{{ entrynote }}</b>
+          {%- endif -%}
+
           </div>
         {%- endif %}
         
