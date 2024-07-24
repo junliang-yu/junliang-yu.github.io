@@ -21,7 +21,7 @@ Hello, this is Junliang Yu (余俊良 in Chinese). I am currently a postdoctoral
 + Recommender systems
 + Data-centric AI
 + Self-supervised learning
-+ Tiny machine learning
++ Graph Learning
 + Large language models
 
 <b>Academic Services</b>
