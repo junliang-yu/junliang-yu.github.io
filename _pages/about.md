@@ -25,7 +25,7 @@ Hello, this is Junliang Yu (余俊良 in Chinese). I am currently a postdoctoral
 + Large language models
 
 <b>Academic Services</b>
-+ PC Member: IJCAI'21,22,23, CIKM'21,22,23,24, AAAI'21,22, WWW'24, KDD'24,25, etc.
++ PC Member: IJCAI'21,22,23, CIKM'21,22,23,24, AAAI'21,22, WWW'24,25, KDD'24,25, etc.
 + Journal Reviewer: TKDE, TOIS, TNNLS, TIST, TKDD, etc.
 
 <br>
