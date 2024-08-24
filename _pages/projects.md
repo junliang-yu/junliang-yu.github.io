@@ -11,7 +11,12 @@ horizontal: false
 
 <div class="grants-list">
     <div class="grant-item">
-        <h5>Junliang Yu. ARC Discovery Early Career Researcher Award (DECRA), "Distilling Data for Cost-Efficient Recommender Systems" (The Sole Chief Investigator), 2025-2027</h5>
+        <h5>ARC Discovery Early Career Researcher Award (DECRA), <i>Distilling Data for Cost-Efficient Recommender Systems</i></h5>
+        <div class="grant-details">
+            <p><strong>Sole Chief Investigator</strong></p>
+            <p><strong>Funding Awarded:</strong> $462,831.00 </p>
+            <p><strong>Grant Period:</strong> 2025-2027</p>
+        </div>
         <p>This project aims to tackle the resource-consuming nature of current recommender systems by innovating data distillation methodologies for these systems. It expects to generate new knowledge in the intersection of data-centric AI and recommender systems. The expected outcomes include a novel data distillation platform that can condense large datasets into compact yet informative data summaries, reducing the resource consumption for dealing with data in recommender systems and embedding cost-efficiency. The benefits of these outcomes will reduce energy use and carbon emission, empower numerous small companies to harness big data intelligence for conducting personalized businesses with low costs, and foster new jobs in data management.</p>
     </div>
 </div>
@@ -21,7 +26,7 @@ horizontal: false
     .grants-list {
         padding: 20px;
     }
-
+    
     .grant-item {
         margin-bottom: 20px;
         padding: 15px;
@@ -41,7 +46,19 @@ horizontal: false
         transition: background-color 0.3s ease; /* Smooth transition for background color */
     }
 
+    .grant-details {
+        display: flex;
+        gap: 20px; /* Space between fields */
+        margin-bottom: 10px;
+    }
+
+    .grant-details p {
+        margin: 0;
+        font-size: 14px;
+        color: #555;
+    }
+
     .grant-item p:hover {
-        background-color: lightyellow;
+        background-color: lightskyblue;
     }
 </style>
