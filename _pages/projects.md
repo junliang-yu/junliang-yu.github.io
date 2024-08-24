@@ -13,13 +13,15 @@ horizontal: false
     <div class="grant-item">
         <h5>ARC Discovery Early Career Researcher Award (DECRA), <i>Distilling Data for Cost-Efficient Recommender Systems</i></h5>
         <div class="grant-details">
-            <p><strong>Sole Chief Investigator</strong></p>
+            <p><strong>Chief Investigator</strong></p>
             <p><strong>Funding Awarded:</strong> $462,831.00 </p>
             <p><strong>Grant Period:</strong> 2025-2027</p>
         </div>
         <p>This project aims to tackle the resource-consuming nature of current recommender systems by innovating data distillation methodologies for these systems. It expects to generate new knowledge in the intersection of data-centric AI and recommender systems. The expected outcomes include a novel data distillation platform that can condense large datasets into compact yet informative data summaries, reducing the resource consumption for dealing with data in recommender systems and embedding cost-efficiency. The benefits of these outcomes will reduce energy use and carbon emission, empower numerous small companies to harness big data intelligence for conducting personalized businesses with low costs, and foster new jobs in data management.</p>
     </div>
 </div>
+
+
 
 
 <style>
@@ -34,9 +36,10 @@ horizontal: false
         border-radius: 5px;
     }
 
-    .grant-item h4 {
+    .grant-item h5 {
         margin-bottom: 10px;
         color: black; /* Highlight the title with a blue color */
+        font-size: medium;
     }
 
     .grant-item p {
@@ -59,6 +62,6 @@ horizontal: false
     }
 
     .grant-item p:hover {
-        background-color: lightskyblue;
+        background-color: lightcyan;
     }
 </style>
