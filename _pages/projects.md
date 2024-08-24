@@ -11,7 +11,7 @@ horizontal: false
 
 <div class="grants-list">
     <div class="grant-item">
-        <h5>ARC Discovery Early Career Researcher Award (DECRA), <i>Distilling Data for Cost-Efficient Recommender Systems</i></h5>
+        <h5>ARC Discovery Early Career Researcher Award (DECRA), <b>Distilling Data for Cost-Efficient Recommender Systems</b></h5>
         <div class="grant-details">
             <p><strong>Chief Investigator</strong></p>
             <p><strong>Funding Awarded:</strong> $462,831.00 </p>
@@ -62,6 +62,6 @@ horizontal: false
     }
 
     .grant-item p:hover {
-        background-color: lightcyan;
+        background-color: #fff2e5;
     }
 </style>
