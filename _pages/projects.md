@@ -34,7 +34,7 @@ horizontal: false
         padding: 15px;
         border: 1px solid #ddd;
         border-radius: 5px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds the shadow effect */
+        box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1); /* Adds the shadow effect */
     }
 
 
