@@ -11,9 +11,9 @@ horizontal: false
 
 <div class="grants-list">
     <div class="grant-item">
-        <h5>ARC Discovery Early Career Researcher Award (DECRA), <b>Distilling Data for Cost-Efficient Recommender Systems</b></h5>
+        <h5><b>Distilling Data for Cost-Efficient Recommender Systems</b></h5>
         <div class="grant-details">
-            <p>ARC Discovery Early Career Researcher Award (DECRA)</p>
+            <p><strong>ARC Discovery Early Career Researcher Award (DECRA)</strong></p>
             <p><strong>Chief Investigator</strong></p>
             <p><strong>Funding Awarded:</strong> $462,831.00 </p>
             <p><strong>Grant Period:</strong> 2025-2027</p>
