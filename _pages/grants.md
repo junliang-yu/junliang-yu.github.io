@@ -43,7 +43,7 @@ horizontal: false
 
     .grant-item h5 {
         margin-bottom: 10px;
-        color: black; /* Highlight the title with a blue color */
+        color: #333; /* Highlight the title with a blue color */
         font-size: medium;
     }
 
@@ -58,13 +58,13 @@ horizontal: false
         display: flex;
         gap: 20px; /* Space between fields */
         padding-top: 10px; 
-        color: #663399;
+        color: #555;
     }
 
     .grant-details p {
         margin: 0;
         font-size: 14px;
-        color: #663399;
+        color: #555;
     }
 
     .grant-item p:hover {
