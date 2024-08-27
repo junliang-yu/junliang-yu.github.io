@@ -43,7 +43,7 @@ horizontal: false
 
     .grant-item h5 {
         margin-bottom: 10px;
-        color: #333; /* Highlight the title with a blue color */
+        color: #555; /* Highlight the title with a blue color */
         font-size: medium;
     }
 
