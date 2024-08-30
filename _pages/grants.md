@@ -16,8 +16,8 @@ horizontal: false
         </p>
         <div class="grant-info">
             <p><b>ARC Discovery Early Career Researcher Award (DECRA)</b> </p>
-            <p>Sole Chief Investigator</p>            
-            <p>2025-2027</p>
+            <p><b>Sole Chief Investigator</b></p>            
+            <p><b>2025-2027</b></p>
         </div>
     </div>
 </div>
@@ -62,7 +62,6 @@ horizontal: false
         margin: 0;
         font-size: 14px;
         color: #555;
-        font-weight: bold;
     }
 
     .grant-item p:hover {
