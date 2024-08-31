@@ -17,7 +17,7 @@ horizontal: false
         <div class="grant-info">
             <p><b>ARC Discovery Early Career Researcher Award (DECRA)</b> </p>
             <p><b>2025 - 2027</b></p>
-            <p><b>Sole Chief Investigator</b></p>
+            <p><b>Chief Investigator</b></p>
         </div>
     </div>    
 </div>
