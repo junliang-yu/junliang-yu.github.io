@@ -27,7 +27,7 @@ horizontal: false
 
 <style>
     .grants-list {        
-        padding: 10px 20px 20px 0;        
+        padding: 5px 20px 20px 0;        
     }
     
     .grant-item {
