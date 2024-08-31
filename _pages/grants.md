@@ -19,7 +19,7 @@ horizontal: false
             <p><b>2025 - 2027</b></p>
             <p><b>Sole Chief Investigator</b></p>
         </div>
-    </div>
+    </div>    
 </div>
 
 
@@ -27,11 +27,11 @@ horizontal: false
 
 <style>
     .grants-list {        
-        padding: 20px 20px 20px 0;        
+        padding: 10px 20px 20px 0;        
     }
     
     .grant-item {
-        margin-bottom: 20px;
+        margin-bottom: 50px;
         padding: 15px;
         border: 1px solid #ddd;
         border-radius: 5px;
