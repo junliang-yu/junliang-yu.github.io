@@ -175,16 +175,16 @@ blockquote {
   .navbar-nav .nav-item .nav-link {
     color: var(--global-theme-color);
     &:hover {
-      color: var(--global-hover-color);
+      color: #555;
     }
     font-weight: bold;
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bold;
-      color: coral;
+      color: #555;
       &:hover {
-        color: coral;
+        color: #555;
       }
   }
   .navbar-brand.social {
