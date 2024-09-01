@@ -173,18 +173,18 @@ blockquote {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-theme-color);
+    color: var(--global-text-color);
     &:hover {
-      color: #555;
+      color: var(--global-hover-color);
     }
     font-weight: bold;
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bold;
-      color: #555;
+      color: var(--global-theme-color);
       &:hover {
-        color: #555;
+        color: var(--global-theme-color);
       }
   }
   .navbar-brand.social {
