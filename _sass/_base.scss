@@ -181,12 +181,11 @@ blockquote {
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
-      font-weight: bolder;
+      font-weight: bold;
       color: var(--global-theme-color);
       &:hover {
         color: var(--global-hover-color);
       }
-    font-weight: bold;
   }
   .navbar-brand.social {
     padding-bottom: 0;
