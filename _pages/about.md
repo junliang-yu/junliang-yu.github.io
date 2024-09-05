@@ -26,7 +26,7 @@ Hello, this is <b>Junliang Yu</b> (<b>余俊良</b> in Chinese). I am currently 
   <li>Large language models</li>
 </ul>
 
-<p><img class="emoji" title=":fire:" alt=":fire:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png" height="20" width="20"> I will commence my ARC DECRA fellowship in 2025. Two fully funded PhD scholarships are available—one for an international student and one for a domestic student, with flexible enrolment in 2025. The PhD candidates will be co-supervised by me (principal supervisor) and <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> (associate supervisor). If you are interested in recommender systems and data science, please feel free to drop me an email.<p>
+<p><img class="emoji" title=":fire:" alt=":fire:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png" height="20" width="20"> I will commence my ARC DECRA fellowship in 2025. Two fully funded PhD scholarships are available—one for an international student and one for a domestic student, with flexible enrolment in 2025. The PhD candidates will be co-supervised by me and <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> (associate supervisor). If you are interested in recommender systems and data science, please feel free to drop me an email.<p>
 
 <br>
 <hr>
