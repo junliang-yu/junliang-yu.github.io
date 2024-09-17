@@ -21,12 +21,11 @@ Hello, this is <b>Junliang Yu</b> (<b>余俊良</b> in Chinese). I am currently 
 <ul style="margin-top: 5px;">
   <li>Recommender systems</li>
   <li>Data-centric AI</li>
-  <li>Self-supervised learning</li>
   <li>Graph Learning</li>
   <li>Large language models</li>
 </ul>
 
-<p><img class="emoji" title=":fire:" alt=":fire:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png" height="20" width="20"> I will commence my ARC DECRA fellowship in 2025. <span style="color: orangered"><b>Two fully funded PhD scholarships are available</b></span>—one for an international student and one for a domestic student, with flexible enrolment in 2025. The PhD candidates will be co-supervised by me and <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> (associate supervisor). If you are interested in recommender systems and data science, please feel free to drop me an email.<p>
+<p><img class="emoji" title=":fire:" alt=":fire:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png" height="20" width="20"> I will commence my ARC DECRA Fellowship in 2025. <span style="color: orangered"><b>Two fully funded PhD scholarships are available</b></span>—one for an international student and one for a domestic student, with flexible enrolment in 2025. The PhD candidates will be co-supervised by me and <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> (associate supervisor). If you are interested in recommender systems and data science, please feel free to drop me an email.<p>
 
 <br>
 <hr>
