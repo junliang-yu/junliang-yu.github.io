@@ -139,7 +139,6 @@ blockquote {
   background-color: var(--global-bg-color);
   opacity: 0.95;
   padding: 0.25rem 1rem;
-  font-weight: bold;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -153,7 +152,6 @@ blockquote {
   .dropdown-divider {
     border-top: 1px solid var(--global-divider-color) !important;
   }
-  font-weight: bold;
 }
 .dropdown-item {
   color: var(--global-text-color);
@@ -161,7 +159,6 @@ blockquote {
       color: var(--global-hover-color);
       background-color: var(--global-bg-color);
     }
-  font-weight: bold;
 }
 .navbar.navbar-light {
   a {
@@ -173,15 +170,13 @@ blockquote {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
-    color: #555;
     &:hover {
       color: var(--global-hover-color);
     }
-    font-weight: bold;
+
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
-      font-weight: bold;
       color: var(--global-theme-color);
       &:hover {
         color: var(--global-theme-color);
