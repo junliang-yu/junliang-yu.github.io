@@ -33,6 +33,10 @@
   }
 }
 
+body{
+  font-family: helvetica, inherit, sans-serif !important;
+}
+
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
