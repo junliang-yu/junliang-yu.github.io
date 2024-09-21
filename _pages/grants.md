@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [Academic, Industry]
 horizontal: false
 ---
-
+<hr>
 <div class="grants-list">
     <div class="grant-item">        
         <h5 style="font-weight: bold;">Distilling Data for Cost-Efficient Recommender Systems</h5>
