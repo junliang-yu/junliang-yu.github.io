@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: 
 nav: true
 nav_order: 5
@@ -10,8 +10,8 @@ nav_order: 5
 
 <div class="class-list">
     <div class="class-item">        
-        <h5 style="font-weight: bold;">INFS3200, Advanced Database Systems</h5>
-        <p>This course builds on students' previous knowledge of centralised information systems to introduce advanced technologies and their design issuesﾠincluding data warehousing for online analytical processing, dataﾠintegration for combining heterogeneousﾠand oftenﾠunstructuredﾠdata from differentﾠsources, and data quality management forﾠensuring theﾠfitness of data for use. Data security and privacy issues will be discussed. 
+        <h5>INFS3200, Advanced Database Systems</h5>
+        <p>This course extends students' knowledge of centralized information systems by introducing advanced technologies such as data warehousing, integration of heterogeneous data, data quality management, and addressing data security and privacy issues.
         </p>
         <div class="class-info">           
             <p>Semester 1, 2025</p>
@@ -19,8 +19,8 @@ nav_order: 5
         </div>
     </div> 
         <div class="class-item">        
-        <h5 style="font-weight: bold;">INFS7900, Introduction to Information Systems</h5>
-        <p>This course provides the foundation concepts on designing and implementing information systems, necessary for advanced data management and data analysis courses taught in various Information Technology, Engineering, Business and Science programs. The course includes modules on data modelling, principles of correct database design, the SQL language for querying relational databases, and developing a small scale database application using MySQL.
+        <h5>INFS7900, Introduction to Information Systems</h5>
+        <p>This course introduces foundational concepts in designing and implementing information systems, covering data modeling, database design, SQL, and MySQL application development, serving as a prerequisite for advanced data management and analysis courses.
         </p>
         <div class="class-info">
             <p>Semester 2, 2025</p>
