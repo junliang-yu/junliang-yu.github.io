@@ -11,7 +11,7 @@ nav_order: 7
 + Yuchuan Zhao (UQ, 2024.1 - ) * 
 + Jiaqi Zhang (UQ, 2025.7 - ) *
 
-\* means as associate supervisor
+\* co-supervised as associate supervisor
 
 <hr>  
 
