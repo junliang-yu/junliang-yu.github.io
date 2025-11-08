@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-### PhD Students
+#### PhD Students
 + Yuchuan Zhao (*UQ, 2024.1 - ) 
 + Jiaqi Zhang (*UQ, 2025.7 - )
 
@@ -15,7 +15,7 @@ nav_order: 7
 
 <hr>  
 
-### Master Students
+#### Master Students
 + Le Dieu Linh (2025.3 - )
 
 
