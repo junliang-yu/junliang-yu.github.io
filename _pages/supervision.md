@@ -8,9 +8,12 @@ nav_order: 7
 ---
 
 ### PhD Students
-#### As Associate Supervisor
-+ Yuchuan Zhao (2024.1 - ) 
-+ Jiaqi Zhang (2025.7 - )
++ Yuchuan Zhao (*UQ, 2024.1 - ) 
++ Jiaqi Zhang (*UQ, 2025.7 - )
+
+\* means as associate supervisor
+
+<hr>  
 
 ### Master Students
 + Le Dieu Linh (2025.3 - )
