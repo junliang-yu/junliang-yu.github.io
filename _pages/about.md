@@ -29,7 +29,7 @@ My research interests include recommender systems, graph learning, social networ
   <li>Language Agents</li>
 </ul>
 
-<p><img class="emoji" title=":fire:" alt=":fire:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png" height="20" width="20"> <span style="color: red">Two fully funded PhD scholarships are available</span>. One for an <a href="https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects/distil-data-cost-efficient-recommender-systems">international student</a> and one for a <a href="https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects/distilling-data-cost-efficient-recommender-systems">domestic student</a>, with flexible enrolment in 2025. The PhD candidates will be co-supervised by me and <a href="https://sites.google.com/view/hongzhi-yin/home">Prof. Hongzhi Yin</a> (associate supervisor). If you are interested in recommender systems and data science, please feel free to drop me an email and apply.<p>
+
 
 <br>
 <hr>
