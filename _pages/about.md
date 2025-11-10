@@ -20,16 +20,5 @@ Hello, this is Junliang Yu. I am currently an ARC DECRA Research Fellow in the [
 
 My research interests include recommender systems, graph learning, social network analysis, generative AI and multi-agent systems. As of September 2025, my publications have been cited over 5,000 times. Several of my works have been recognised as [The Most Influential Papers](https://www.paperdigest.org/2024/05/most-influential-sigir-papers-2024-05/) by Paper Digest, and three journal articles have been listed as [ESI Hot / Highly Cited Papers](). I have also delivered four tutorials about recommender systems and graph machine learning at top-tier conferences, contributing to community knowledge-sharing and collaboration. In addition, I am committed to open-source development, and have created two recommender system toolkits, [QRec](https://github.com/Coder-Yu/QRec) and [SELFRec](https://github.com/Coder-Yu/SELFRec), which are actively used by researchers and practitioners.
 
-
-<h5 style="margin-bottom: 5px; font-size: 1.1rem"><b>Research Interests</b></h5>
-<ul style="margin-top: 5px;">
-  <li>Recommender systems</li>
-  <li>Data-centric AI</li>
-  <li>Graph Learning</li>
-  <li>Language Agents</li>
-</ul>
-
-
-
 <br>
 <hr>
