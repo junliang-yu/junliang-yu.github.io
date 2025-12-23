@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Email: <a href="">junl.yu at outlook dot com</a> 
+Email: <a href="">junl.yu at outlook.com</a> 
 
 **Junliang Yu** is currently an ARC DECRA Research Fellow in the [Data Science](https://eecs.uq.edu.au/data-science) discipline at The University of Queensland (UQ), and will be joining Griffith University
 as a Lecturer (equivalent to U.S. Assistant Professor) in Spring 2026. Prior to this, he worked as a postdoctoral research fellow with [Prof. Shazia Sadiq](https://scholar.google.com/citations?user=1Jo0EmIAAAAJ&hl=en). He completed his PhD at UQ in 2023 under the supervision of [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). Before joining UQ, he obtained his M.Sc. and B.E. degrees from Chongqing University, where he was advised by [Prof. Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm).
