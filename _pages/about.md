@@ -16,10 +16,8 @@ social: true  # includes social icons at the bottom of the page
 
 Email: <a href="">junl.yu at outlook.com</a> 
 
-**Junliang Yu** is currently a Lecturer (Assistant Professor) and ARC DECRA fellow with the School of Information and Communication Technology at Griffith University. Prior to this, he worked as a Research Fellow in the [Data Science](https://eecs.uq.edu.au/data-science) discipline with The University of Queensland (UQ) where he also completed his PhD in 2023 under the supervision of [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). Before joining UQ, he obtained his M.Sc. and B.E. degrees from Chongqing University, where he was advised by [Prof. Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm).
+**Junliang Yu** is a Lecturer (Assistant Professor) and ARC DECRA Fellow in the School of Information and Communication Technology at Griffith University. Prior to joining Griffith, he was a Research Fellow in the Data Science discipline at The University of Queensland (UQ), where he also obtained his PhD in 2023 under the supervision of [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). He previously received his M.Sc. and B.E. degrees from Chongqing University, advised by [Prof. Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm).
 
-His research interests include recommender systems, data mining, generative AI, and agentic systems. He has published extensively in leading venues of these areas and has delivered four tutorials on recommender systems and graph machine learning at top-tier international conferences. His work has been cited for over 6,000 times. In addition, he is committed to open-source research and has developed two
-recommender system toolkits, [QRec](https://github.com/Coder-Yu/QRec) and [SELFRec](https://github.com/Coder-Yu/SELFRec), which are actively used by researchers and practitioners.
-
+His research interests lie in recommender systems, data mining, generative AI, and agentic systems. His work has been published in leading venues in these areas and has been cited over 6,000 times. He has delivered four tutorials on recommender systems and graph machine learning at top-tier international conferences. He is also an advocate of open research and has developed two open-source recommender system toolkits, [QRec](https://github.com/Coder-Yu/QRec) and [SELFRec](https://github.com/Coder-Yu/SELFRec), which are widely used by the research community.
 <br>
 <hr>
