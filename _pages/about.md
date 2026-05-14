@@ -24,11 +24,11 @@ His research focuses on recommender systems, data mining, generative AI, and age
   background-color: #f8fafc;
   border-left: 5px solid #991b1b;
   border-radius: 14px;
-  padding: 20px 26px;
+  padding: 10px 16px;
   max-width: 1100px;
   font-family: Georgia, 'Times New Roman', serif;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
-  font-size: 20px;
+  font-size: 12px;
   line-height: 1.75;
   color: #1f2937;
 ">
