@@ -21,14 +21,13 @@ Email: <a href="">junl.yu at outlook.com</a>
 His research focuses on recommender systems, data mining, generative AI, and agentic systems. His work has been widely published in leading venues in these areas and has received over 6,000 citations, placing him among [the world’s top 2% scientists](https://topresearcherslist.com/Home/Profile/892524). He has also delivered four tutorials on recommender systems and graph machine learning at top-tier international conferences. In addition, he actively contributes to open research and has developed two open-source recommender system toolkits, [QRec](https://github.com/Coder-Yu/QRec) and [SELFRec](https://github.com/Coder-Yu/SELFRec), which are widely used by the research community.
 <br>
 <div style="
-  background-color: #f8fafc;
-  border-left: 5px solid #991b1b;
+  background-color: #EDD8D0;  
   border-radius: 14px;
-  padding: 10px 16px;
+  padding: 10px 10px;
   max-width: 1100px;
   font-family: Georgia, 'Times New Roman', serif;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.75;
   color: #1f2937;
 ">
