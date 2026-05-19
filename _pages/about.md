@@ -32,15 +32,21 @@ His research focuses on recommender systems, data mining, generative AI, and age
   color: #1f2937;
 ">
   I am looking for highly motivated PhD students to join my group. I welcome students with strong backgrounds in
-  computer science, data science, or related fields, particularly those interested in
+  computer science, data science, AI or related fields, particularly those interested in
   <strong>recommender systems, agentic AI, trustworthy AI, and LLM reasoning</strong>.
   If you are interested, please feel free to contact me via email with your CV.
   <a href="https://www.griffith.edu.au/research-study/scholarships/csc-gu-phd-scholarship"
      target="_blank"
      rel="noopener noreferrer"
      style="color: #991b1b; font-weight: 700; text-decoration: none;">
-    CSC Griffith PhD scholarship
+    CSC-GU PhD scholarship
   </a>
-  is currently available.
+  is currently available. Find more scholarships
+  <a href="https://www.griffith.edu.au/research-study/scholarships"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="color: #991b1b; font-weight: 700; text-decoration: none;">
+    here
+  </a>. Prospective visiting students are also welcome to get in touch to discuss potential research opportunities.
 </div>
 <hr>
