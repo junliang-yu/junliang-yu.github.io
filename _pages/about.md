@@ -46,7 +46,6 @@ His research focuses on recommender systems, data mining, generative AI, and age
      target="_blank"
      rel="noopener noreferrer"
      style="color: #991b1b; font-weight: 700; text-decoration: none;">
-    HERE
-  </a>. Prospective visiting students are also welcome to get in touch to discuss potential research opportunities.
+    HERE</a>. Prospective visiting students are also welcome to get in touch to discuss potential research opportunities.
 </div>
 <hr>
