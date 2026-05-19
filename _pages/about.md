@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**[Griffith Profile](https://experts.griffith.edu.au/56536-junliang-yu)** &nbsp;&nbsp;&nbsp; Email: <a href="">junl.yu at outlook.com</a>
+[Griffith Profile](https://experts.griffith.edu.au/56536-junliang-yu) &nbsp;&nbsp;&nbsp; Email: <a href="">junl.yu at outlook.com</a>
 
 **Junliang Yu** is a Lecturer (Assistant Professor) and ARC DECRA Fellow in the [School of Information and Communication Technology at Griffith University](https://experts.griffith.edu.au/56536-junliang-yu). Prior to joining Griffith, he was a Research Fellow in the Data Science discipline at The University of Queensland (UQ), where he also obtained his PhD in 2023 under the supervision of [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). He previously received his M.Sc. and B.E. degrees from Chongqing University, advised by [Prof. Min Gao](http://www.cse.cqu.edu.cn/info/2095/7111.htm).
 
