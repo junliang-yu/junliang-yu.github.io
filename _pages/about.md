@@ -31,7 +31,7 @@ His research focuses on recommender systems, data mining, generative AI, and age
   line-height: 1.75;
   color: #1f2937;
 ">
-  I am looking for highly motivated students to join my group. I welcome students with strong backgrounds in
+  I am looking for highly motivated PhD students to join my group. I welcome students with strong backgrounds in
   computer science, data science, or related fields, particularly those interested in
   <strong>recommender systems, agentic AI, trustworthy AI, and LLM reasoning</strong>.
   If you are interested, please feel free to contact me via email with your CV.
