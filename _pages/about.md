@@ -41,7 +41,7 @@ His research focuses on recommender systems, data mining, generative AI, and age
      style="color: #991b1b; font-weight: 700; text-decoration: none;">
     CSC-GU PhD scholarship
   </a>
-  is currently available. Find more scholarships
+  is currently available. Please find more scholarships
   <a href="https://www.griffith.edu.au/research-study/scholarships"
      target="_blank"
      rel="noopener noreferrer"
