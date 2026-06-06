@@ -12651,43 +12651,6 @@
 
   // Copyright 2018 The Distill Template Authors
 
-  // const template = `
-  // if ('IntersectionObserver' in window &&
-  //   'IntersectionObserverEntry' in window &&
-  //   'intersectionRatio' in IntersectionObserverEntry.prototype) {
-  //     // Platform supports IntersectionObserver natively! :-)
-  //     if (!('isIntersecting' in IntersectionObserverEntry.prototype)) {
-  //       Object.defineProperty(IntersectionObserverEntry.prototype,
-  //         'isIntersecting', {
-  //         get: function () {
-  //           return this.intersectionRatio > 0;
-  //         }
-  //       });
-  //     }
-  // } else {
-  //   // Platform does not support webcomponents--loading polyfills synchronously.
-  //   const scriptTag = document.createElement('script');
-  //   scriptTag.src = '${intersectionObserverPath}';
-  //   scriptTag.async = false;
-  //   document.currentScript.parentNode.insertBefore(scriptTag, document.currentScript.nextSibling);
-  // }
-  //
-  // if ('registerElement' in document &&
-  //     'import' in document.createElement('link') &&
-  //     'content' in document.createElement('template')) {
-  //   // Platform supports webcomponents natively! :-)
-  // } else {
-  //   // Platform does not support webcomponents--loading polyfills synchronously.
-  //   const scriptTag = document.createElement('script');
-  //   scriptTag.src = '${webcomponentPath}';
-  //   scriptTag.async = false;
-  //   document.currentScript.parentNode.insertBefore(scriptTag, document.currentScript.nextSibling);
-  // }
-  //
-  //
-  // `;
-
-
   const addBackIn = `
 window.addEventListener('WebComponentsReady', function() {
   console.warn('WebComponentsReady');
@@ -12703,7 +12666,7 @@ window.addEventListener('WebComponentsReady', function() {
     if (templateTag) {
       templateTag.parentNode.removeChild(templateTag);
     } else {
-      console.debug('FYI: Did not find template tag when trying to remove it. You may not have added it. Be aware that our polyfills will add it.');
+      console.debug('FYI: Did not find template tag when trying to remove it. You may not have added it. Be aware that the legacy loader will add it.');
     }
 
     // add loader
@@ -12716,15 +12679,6 @@ window.addEventListener('WebComponentsReady', function() {
     addTag.innerHTML = addBackIn;
     dom.head.insertBefore(addTag, dom.head.firstChild);
 
-
-    // create polyfill script tag
-    // const polyfillScriptTag = dom.createElement('script');
-    // polyfillScriptTag.innerHTML = template;
-    // polyfillScriptTag.id = 'polyfills';
-
-    // insert at appropriate position--before any other script tag
-    // const firstScriptTag = dom.head.querySelector('script');
-    // dom.head.insertBefore(polyfillScriptTag, firstScriptTag);
   }
 
   // Copyright 2018 The Distill Template Authors
@@ -13100,7 +13054,6 @@ distill-header .nav a {
     ['Mathematics', Mathematics],
     ['Meta', Meta],
     ['Typeset', Typeset],
-    ['Polyfills', render],
     ['CitationList', CitationList],
     ['Reorder', render$1] // keep last
   ]);
@@ -13182,4 +13135,3 @@ distill-header .nav a {
   Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
-//# sourceMappingURL=transforms.v2.js.map
