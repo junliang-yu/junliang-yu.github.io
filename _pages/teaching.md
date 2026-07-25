@@ -10,23 +10,34 @@ nav_order: 5
 
 <div class="class-list">
     <div class="class-item">        
-        <h5>INFS3200, Advanced Database Systems</h5>
-        <p>This course extends students' knowledge of centralized information systems by introducing advanced technologies such as data warehousing, integration of heterogeneous data, data quality management, and addressing data security and privacy issues.
+        <h5>7810ICT, Project Management & Software Engineering</h5>
+        <p>This course introduces foundational concepts in project management and software engineering, covering scope, schedule, resource, communication, cost, and risk management in software projects, and serves as a foundation for effectively planning and managing software development.
         </p>
-        <div class="class-info">           
-            <p>Semester 1, 2025</p>
-            <p>Lecturer/Coordinator</p>
+        <div class="class-info">
+            <p>Trimester 2, 2026, Griffith</p>
+            <p>Lecturer/Primary coordinator</p>
         </div>
-    </div> 
-        <div class="class-item">        
+    </div>    
+    
+    <div class="class-item">        
         <h5>INFS7900, Introduction to Information Systems</h5>
         <p>This course introduces foundational concepts in designing and implementing information systems, covering data modeling, database design, SQL, and MySQL application development, serving as a prerequisite for advanced data management and analysis courses.
         </p>
         <div class="class-info">
-            <p>Semester 2, 2025</p>
+            <p>Semester 2, 2025, UQ</p>
             <p>Lecturer/Primary coordinator</p>
         </div>
     </div>    
+    
+    <div class="class-item">        
+        <h5>INFS3200, Advanced Database Systems</h5>
+        <p>This course extends students' knowledge of centralized information systems by introducing advanced technologies such as data warehousing, integration of heterogeneous data, data quality management, and addressing data security and privacy issues.
+        </p>
+        <div class="class-info">           
+            <p>Semester 1, 2025, UQ</p>
+            <p>Lecturer/Coordinator</p>
+        </div>
+    </div>         
 </div>
 
 
